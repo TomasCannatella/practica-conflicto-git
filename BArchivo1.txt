@@ -1,1 +1,3 @@
+Lorem ipsum dolor sit amet
+este es el BArchivo1.txt
 "Lorem ipsum dolor sit amet" es un texto que se usa a modo de ejemplo.
